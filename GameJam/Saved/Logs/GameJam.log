@@ -915,3 +915,195 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.27-08.41.49:292][898]LogContentBrowser: End creating deferred item NewFolder
 [2024.04.27-08.42.30:599][ 48]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
 [2024.04.27-08.42.47:026][ 97]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.43.08:494][160]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.43.34:093][406]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.43.45:911][441]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.44.41:265][668]LogSlate: Took 0.001287 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.27-08.44.46:367][811]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.45.02:697][942]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.45.25:862][110]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.46.00:086][212]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.46.27:917][295]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.46.31:507][424]LogSlate: Took 0.000321 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.27-08.46.31:578][424]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.04.27-08.46.32:739][424]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.04.27-08.46.32:756][424]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.04.27-08.46.32:782][424]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.04.27-08.46.35:309][536]LogContentBrowser: Attempting asset rename: NewBlueprint -> character
+[2024.04.27-08.46.35:330][536]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.04.27-08.47.03:785][685]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.47.32:019][769]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.47.53:978][ 69]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2024.04.27-08.47.54:015][ 69]LogContentBrowser: Creating deferred item: NewWorld
+[2024.04.27-08.47.54:672][ 98]LogContentBrowser: Attempting asset rename: NewWorld -> NewWorld
+[2024.04.27-08.47.54:683][ 98]LogContentBrowser: End creating deferred item NewWorld
+[2024.04.27-08.47.55:232][120]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2024.04.27-08.47.56:839][120]LogSlate: Window 'Save Content' being destroyed
+[2024.04.27-08.47.56:911][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/character" FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset" SILENT=true
+[2024.04.27-08.47.56:937][120]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/characterDBAEB2824B0C7F95617F968A1A5EB1C5.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset'
+[2024.04.27-08.47.56:944][120]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewWorld" FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.04.27-08.47.56:957][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2024.04.27-08.47.56:967][120]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/NewWorld2CB1485E4EB02E46CE62B9A6A07EE76F.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/NewWorld.umap'
+[2024.04.27-08.47.56:969][120]LogFileHelpers: Saving map 'NewWorld' took 0.025
+[2024.04.27-08.47.57:042][120]LogAssetEditorSubsystem: Opening Asset editor for World /Game/NewWorld.NewWorld
+[2024.04.27-08.47.57:043][120]Cmd: MAP LOAD FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.27-08.47.57:043][120]LightingResults: New page: Lighting Build
+[2024.04.27-08.47.57:043][120]LoadErrors: New page: Loading map: NewWorld.umap
+[2024.04.27-08.47.57:048][120]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.47.57:049][120]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.47.57:049][120]MapCheck: New page: Map Check
+[2024.04.27-08.47.57:049][120]LightingResults: New page: Lighting Build
+[2024.04.27-08.47.57:058][120]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-08.47.57:066][120]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.27-08.47.57:067][120]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2024.04.27-08.47.57:069][120]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.27-08.47.57:069][120]LogAIModule: Creating AISystem for world NewWorld
+[2024.04.27-08.47.57:083][120]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2024.04.27-08.47.57:104][120]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.27-08.47.57:104][120]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,127ms to complete.
+[2024.04.27-08.47.57:105][120]LogFileHelpers: Loading map 'NewWorld' took 0.061
+[2024.04.27-08.47.57:142][120]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.27-08.47.57:142][120]LogContentValidation: Display: Validating Blueprint /Game/blueprints/character.character
+[2024.04.27-08.47.57:142][120]LogContentValidation: Display: Validating World /Game/NewWorld.NewWorld
+[2024.04.27-08.48.06:091][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.04.27-08.48.06:164][589]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/Minimal_Default.Minimal_Default
+[2024.04.27-08.48.06:164][589]Cmd: MAP LOAD FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/StarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.27-08.48.06:164][589]LightingResults: New page: Lighting Build
+[2024.04.27-08.48.06:164][589]LoadErrors: New page: Loading map: Minimal_Default.umap
+[2024.04.27-08.48.06:165][589]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.48.06:165][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.48.06:166][589]MapCheck: New page: Map Check
+[2024.04.27-08.48.06:166][589]LightingResults: New page: Lighting Build
+[2024.04.27-08.48.06:176][589]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-08.48.06:181][589]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.04.27-08.48.06:182][589]LogAudio: Display: Audio Device (ID: 1) registered with world 'Minimal_Default'.
+[2024.04.27-08.48.06:186][589]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.27-08.48.06:186][589]LogAIModule: Creating AISystem for world Minimal_Default
+[2024.04.27-08.48.06:196][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.27-08.48.06:201][589]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.27-08.48.06:201][589]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,183ms to complete.
+[2024.04.27-08.48.06:201][589]LogFileHelpers: Loading map 'Minimal_Default' took 0.037
+[2024.04.27-08.48.09:966][780]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (BP_Sky_Sphere)
+[2024.04.27-08.48.14:060][943]LogActorFactory: Actor Factory created Cube
+[2024.04.27-08.48.14:717][963]LogActorFactory: Actor Factory created Cube
+[2024.04.27-08.48.17:586][ 29]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2024.04.27-08.48.40:447][973]LogObjectTools: Deleting 1 worlds: /Game/NewWorld.NewWorld
+[2024.04.27-08.48.40:447][973]LogObjectTools: Currently 3 active worlds: /Game/StarterContent/Maps/Minimal_Default.Minimal_Default, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2024.04.27-08.48.40:455][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.27-08.48.41:321][973]LogSlate: Window 'Delete Assets' being destroyed
+[2024.04.27-08.48.41:354][973]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.48.41:354][973]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.48.41:428][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.04.27-08.48.41:452][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.27-08.48.41:457][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.27-08.48.48:364][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2024.04.27-08.48.48:687][307]Cmd: DELETE
+[2024.04.27-08.48.48:687][307]Cmd: ACTOR DELETE
+[2024.04.27-08.48.48:689][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.27-08.48.48:695][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2024.04.27-08.48.48:697][307]LogEditorActor: Deleted 1 Actors (0.009 secs)
+[2024.04.27-08.48.55:841][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.04.27-08.48.58:042][727]LogSlate: Window 'Save Content' being destroyed
+[2024.04.27-08.48.58:349][727]LogStaticMesh: Building static mesh Floor_400x400...
+[2024.04.27-08.48.58:351][727]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2024.04.27-08.48.58:609][727]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2024.04.27-08.48.58:616][727]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2024.04.27-08.48.58:623][727]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2024.04.27-08.48.58:630][727]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2024.04.27-08.48.58:635][727]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2024.04.27-08.48.58:642][727]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2024.04.27-08.48.58:647][727]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2024.04.27-08.48.58:653][727]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2024.04.27-08.48.58:660][727]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2024.04.27-08.48.58:666][727]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2024.04.27-08.48.58:746][727]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2024.04.27-08.48.58:747][727]Cmd: MAP LOAD FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.27-08.48.58:747][727]LightingResults: New page: Lighting Build
+[2024.04.27-08.48.58:747][727]LoadErrors: New page: Loading map: StarterMap.umap
+[2024.04.27-08.48.58:794][727]LogWorld: UWorld::CleanupWorld for Minimal_Default, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.48.58:795][727]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.48.58:795][727]MapCheck: New page: Map Check
+[2024.04.27-08.48.58:795][727]LightingResults: New page: Lighting Build
+[2024.04.27-08.48.58:804][727]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-08.48.58:809][727]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.04.27-08.48.58:810][727]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2024.04.27-08.48.58:836][727]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.27-08.48.58:836][727]LogAIModule: Creating AISystem for world StarterMap
+[2024.04.27-08.48.58:850][727]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.04.27-08.48.58:867][727]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.27-08.48.58:868][727]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,196ms to complete.
+[2024.04.27-08.48.58:868][727]LogFileHelpers: Loading map 'StarterMap' took 0.121
+[2024.04.27-08.49.14:695][542]LogTemp: Repeating last play command: Selected Viewport
+[2024.04.27-08.49.14:702][542]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.27-08.49.14:702][542]PIE: New page: PIE session: StarterMap (27 Nis 2024 14:49:14)
+[2024.04.27-08.49.14:705][542]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2024.04.27-08.49.14:707][542]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2024.04.27-08.49.14:707][542]LogPlayLevel: Creating play world package: /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.04.27-08.49.14:729][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.021062s)
+[2024.04.27-08.49.14:730][542]LogAIModule: Creating AISystem for world StarterMap
+[2024.04.27-08.49.14:730][542]LogPlayLevel: PIE: World Init took: (0.001828s)
+[2024.04.27-08.49.14:731][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/StarterContent/Maps/StarterMap.StarterMap to /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap (0.023187s)
+[2024.04.27-08.49.14:739][542]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.04.27-08.49.14:740][542]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.04.27-08.49.14:740][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.27-08.49.14:740][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.27-08.49.14:740][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.27-08.49.14:740][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.27-08.49.14:740][542]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.04.27-08.49.14:741][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.04.27-08.49.14:741][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.04.27-08.49.14:741][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.27-08.49.14:741][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.27-08.49.14:741][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.27-08.49.14:741][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.27-08.49.14:741][542]LogAudioMixer: Display: Initializing audio mixer.
+[2024.04.27-08.49.14:748][542]LogAudioMixer: Display: 0: FrontLeft
+[2024.04.27-08.49.14:748][542]LogAudioMixer: Display: 1: FrontRight
+[2024.04.27-08.49.14:763][542]LogAudioMixer: Display: Using Audio Device Kulaklıklar (Jabra Elite 3 Active)
+[2024.04.27-08.49.14:763][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.27-08.49.14:763][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.27-08.49.14:763][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.27-08.49.14:764][542]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2024.04.27-08.49.14:764][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2024.04.27-08.49.14:764][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2024.04.27-08.49.14:766][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2024.04.27-08.49.14:766][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2024.04.27-08.49.14:766][542]LogInit: FAudioDevice initialized.
+[2024.04.27-08.49.14:766][542]LogAudio: Display: Audio Device (ID: 2) registered with world 'StarterMap'.
+[2024.04.27-08.49.14:774][542]LogLoad: Game class is 'GameModeBase'
+[2024.04.27-08.49.14:782][542]LogWorld: Bringing World /Game/StarterContent/Maps/UEDPIE_0_StarterMap.StarterMap up for play (max tick rate 60) at 2024.04.27-11.49.14
+[2024.04.27-08.49.14:787][542]LogWorld: Bringing up level for play took: 0.011383
+[2024.04.27-08.49.14:787][542]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2024.04.27-08.49.14:792][542]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2024.04.27-08.49.14:795][542]PIE: Server logged in
+[2024.04.27-08.49.14:797][542]PIE: Play in editor total start time 0,096 seconds.
+[2024.04.27-08.49.14:946][546]LogAudio: Display: Cached duration for Sound Cue SoundCue /Game/StarterContent/Audio/Collapse_Cue.Collapse_Cue was zero and has changed. Consider manually Re-saving the asset
+[2024.04.27-08.49.17:614][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-08.49.17:614][701]LogWorld: BeginTearingDown for /Game/StarterContent/Maps/UEDPIE_0_StarterMap
+[2024.04.27-08.49.17:616][701]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2024.04.27-08.49.17:617][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.49.17:631][701]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.27-08.49.17:689][701]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.27-08.49.17:695][701]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.27-08.49.17:696][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.27-08.49.17:697][701]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2024.04.27-08.49.17:700][701]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.27-08.49.17:705][701]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.04.27-08.49.17:735][702]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2024.04.27-08.49.45:041][  4]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.27-08.50.44:015][569]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.27-08.50.44:027][569]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.27-08.50.45:746][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/character" FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset" SILENT=true
+[2024.04.27-08.50.45:751][666]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/character7A8139244E5712A7DE6BB0A1C9C49DBA.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset'
+[2024.04.27-08.50.45:765][666]AssetCheck: New page: Asset Save: character
+[2024.04.27-08.50.45:765][666]LogContentValidation: Display: Validating Blueprint /Game/blueprints/character.character
+[2024.04.27-08.50.47:315][751]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/character" FILE="../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset" SILENT=true
+[2024.04.27-08.50.47:320][751]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/character12F6E6FB4F09B2CB2E3D8AA54C723B04.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/blueprints/character.uasset'
+[2024.04.27-08.50.47:334][751]AssetCheck: New page: Asset Save: character
+[2024.04.27-08.50.47:334][751]LogContentValidation: Display: Validating Blueprint /Game/blueprints/character.character
+[2024.04.27-08.50.48:167][799]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.04.27-08.50.48:244][799]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/StarterMapCD772A0347FA2E06F1A046A971DAB1CA.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/StarterContent/Maps/StarterMap.umap'
+[2024.04.27-08.50.48:817][799]LogSavePackage: Moving '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Saved/StarterMap_BuiltData30B01B614C711362F38526B8A567C400.tmp' to '../../../../../../Users/burak/Documents/GitHub/Pura24GameJam/GameJam/Content/StarterContent/Maps/StarterMap_BuiltData.uasset'
+[2024.04.27-08.50.48:856][799]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.27-08.50.48:856][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
+[2024.04.27-08.50.48:856][799]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/StarterMap.StarterMap
