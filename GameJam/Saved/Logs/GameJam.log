@@ -1107,3 +1107,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2024.04.27-08.50.48:856][799]AssetCheck: New page: Asset Save: multiple assets
 [2024.04.27-08.50.48:856][799]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/StarterContent/Maps/StarterMap_BuiltData.StarterMap_BuiltData
 [2024.04.27-08.50.48:856][799]LogContentValidation: Display: Validating World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2024.04.27-08.52.17:588][206]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2024.04.27-08.54.27:575][701]LogSlate: Window 'Project Settings' being destroyed
+[2024.04.27-08.54.27:585][701]LogSlate: Window 'Project Settings' being destroyed
